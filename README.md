@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sure-yea/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
