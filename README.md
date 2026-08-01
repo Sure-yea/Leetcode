@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sure-yea/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sure-yea/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Sure-yea/Leetcode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Sure-yea/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
