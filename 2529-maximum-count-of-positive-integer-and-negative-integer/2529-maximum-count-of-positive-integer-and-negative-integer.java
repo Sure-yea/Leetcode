@@ -70,8 +70,6 @@ class Solution {
             }
         }
         int positives = nums.length - lhs2;
-
-        System.out.println("lhs of zero "+mid+"\nrhs of zero "+mid2);
         return (Math.max(positives,negatives));
 
 
