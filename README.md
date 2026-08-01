@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sure-yea/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sure-yea/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Sure-yea/Leetcode/tree/master/0035-search-insert-position) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sure-yea/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sure-yea/Leetcode/tree/master/0035-search-insert-position) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sure-yea/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sure-yea/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
