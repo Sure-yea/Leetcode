@@ -6,18 +6,17 @@ class Solution {
         int mid=0;
         while(lhs<=rhs){
             mid= (lhs)+(rhs-lhs)/2;           //(lhs+rhs)/2
-            int x=n/mid;
 
-            if(  mid    ==  x ){         //mid*mid    ==  n
+            if(  mid    ==  n/mid  ){         //mid*mid    ==  n
                 return mid;
             }
 
-            else if(  mid    <  x ){
+            else if(  mid    <  n/mid  ){
                 lhs=mid+1;
 
             }
             
-            else if(  mid    >  x  ){
+            else if(  mid    >  n/mid  ){
                 rhs=mid-1;
             }
 
