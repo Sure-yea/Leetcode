@@ -3,20 +3,21 @@ class Solution {
         if(n<=1) return n;
         int lhs=0, rhs=n;
 
-        int mid=n/2;
+        int mid=0;
         while(lhs<=rhs){
             mid= (lhs)+(rhs-lhs)/2;           //(lhs+rhs)/2
+            int x=n/mid;
 
-            if(  mid    ==  n/mid  ){         //mid*mid    ==  n
+            if(  mid    ==  x ){         //mid*mid    ==  n
                 return mid;
             }
 
-            else if(  mid    <  n/mid  ){
+            else if(  mid    <  x ){
                 lhs=mid+1;
 
             }
             
-            else if(  mid    >  n/mid  ){
+            else if(  mid    >  x  ){
                 rhs=mid-1;
             }
 
