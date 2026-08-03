@@ -3,9 +3,9 @@ class Solution {
         int lhs=0,rhs=nums.length;
         int mid=lhs+(rhs-lhs)/2;
 
-        //   x  x  y  y  z  z  a  b  b  c  c
-        //   0  1  2  3  4  5  6  7  8  9  10
-        // 2nd wala on odd until the single element
+        //  x  x  y  y  z  z  a  b  b  c  c
+        //  0  1  2  3  4  5  6  7  8  9  10
+        //2nd wala on odd until the single element
         while(lhs<=rhs){
             mid=lhs+(rhs-lhs)/2;
             if(mid==0 || mid==nums.length-1) return nums[mid];
@@ -22,7 +22,7 @@ class Solution {
             }
         }
 
-        return mid;
+        return nums[lhs];
         
     }
 }
