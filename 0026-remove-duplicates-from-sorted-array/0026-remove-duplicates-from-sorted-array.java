@@ -28,14 +28,12 @@ class Solution {
 
         int k=1;
         int index=1;
-        int lastele=nums[0];
         for(int i=1;i<nums.length;i++){
-            if(nums[i]!=lastele){
+            if(nums[i]>nums[i-1]){
                 nums[index]=nums[i];
                 index++;
                 k++;
             }
-            lastele=nums[i];
         }        
         return k;
     }
