@@ -55,9 +55,10 @@ class Solution {
         int max=-1001;
         int max2=-1001;
         int max3=-1001;
-        
         int min=1001;
         int min2=1001;
+        int temp=0;
+        int index=0;
 
 
 
