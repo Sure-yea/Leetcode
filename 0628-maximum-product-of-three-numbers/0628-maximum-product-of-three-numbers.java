@@ -60,15 +60,15 @@ class Solution {
         int temp=0;
         int index=0;
 
-        if(nums.length==3) return(nums[0]*nums[1]*nums[2]);
+        // if(nums.length==3) return(nums[0]*nums[1]*nums[2]);
 
-        if(nums.length==4){
-            int a=nums[1]*nums[2]*nums[3];
-            int b=nums[0]*nums[2]*nums[3];
-            int c=nums[0]*nums[1]*nums[3];
-            int d=nums[0]*nums[1]*nums[2];
-            return Math.max(   Math.max(  a,b   )  ,  Math.max(   c,d   )         );
-        }
+        // if(nums.length==4){
+        //     int a=nums[1]*nums[2]*nums[3];
+        //     int b=nums[0]*nums[2]*nums[3];
+        //     int c=nums[0]*nums[1]*nums[3];
+        //     int d=nums[0]*nums[1]*nums[2];
+        //     return Math.max(   Math.max(  a,b   )  ,  Math.max(   c,d   )         );
+        // }
 
 
 
