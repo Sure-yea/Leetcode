@@ -27,7 +27,7 @@ class Solution {
             temp=nums[j];
             nums[j]=nums[index];
             nums[index]=temp;
-            max=Integer.MIN_VALUE;
+            max=-1001;
             
         }
         
@@ -47,7 +47,7 @@ class Solution {
             temp=nums[j];
             nums[j]=nums[index];
             nums[index]=temp;
-            min=Integer.MAX_VALUE;
+            min=1001;
             
         }
 
