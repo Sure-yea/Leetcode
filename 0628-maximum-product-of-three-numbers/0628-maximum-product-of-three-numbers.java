@@ -16,24 +16,6 @@ class Solution {
         }
 
 
-
-        for(int j=0;j<=1;j++){
-            for(int i=j;i<nums.length;i++){
-                if(nums[i]>0) continue;
-                if(min>nums[i]){
-                    min=nums[i];
-                    index=i;
-                }
-            }
-            
-            temp=nums[j];
-            nums[j]=nums[index];
-            nums[index]=temp;
-            min=Integer.MAX_VALUE;
-            
-        }
-
-
         for(int j=nums.length-1;j>=nums.length-3;j--){
             for(int i=j;i>=0;i--){
                 if(max<nums[i]){
@@ -49,6 +31,27 @@ class Solution {
             
         }
         
+
+
+        for(int j=0;j<=1;j++){
+            for(int i=j;i<nums.length;i++){
+                if(nums[i]>0){
+                    continue;
+                }
+                if(min>nums[i]){
+                    min=nums[i];
+                    index=i;
+                }
+            }
+            if(min>0) return nums[nums.length-3]*nums[nums.length-2]*nums[nums.length-1];
+            temp=nums[j];
+            nums[j]=nums[index];
+            nums[index]=temp;
+            min=Integer.MAX_VALUE;
+            
+        }
+
+
         return(   Math.max( nums[0]*nums[1]*nums[nums.length-1]   ,   nums[nums.length-3]*nums[nums.length-2]*nums[nums.length-1] )    );
         
     }
