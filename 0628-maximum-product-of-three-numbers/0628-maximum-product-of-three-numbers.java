@@ -86,9 +86,7 @@ class Solution {
             else if(max3<nums[i]){
                 max3=nums[i];
             }
-        }
-        
-        for(int i=0;i<nums.length;i++){
+
             if(min>nums[i]){
                 min2=min;
                 min=nums[i];
@@ -98,9 +96,6 @@ class Solution {
                 min2=nums[i];
             }
         }
-            
-
-
         return(   Math.max( min*min2*max   ,   max*max2*max3 )    );
         
     }
