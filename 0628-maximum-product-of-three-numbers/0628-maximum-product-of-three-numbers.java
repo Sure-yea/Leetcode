@@ -60,40 +60,30 @@ class Solution {
         int temp=0;
         int index=0;
 
-        // if(nums.length==3) return(nums[0]*nums[1]*nums[2]);
-
-        // if(nums.length==4){
-        //     int a=nums[1]*nums[2]*nums[3];
-        //     int b=nums[0]*nums[2]*nums[3];
-        //     int c=nums[0]*nums[1]*nums[3];
-        //     int d=nums[0]*nums[1]*nums[2];
-        //     return Math.max(   Math.max(  a,b   )  ,  Math.max(   c,d   )         );
-        // }
-
-
 
         for(int i=0;i<nums.length;i++){
-            if(max<nums[i]){
+            int x=nums[i];
+            if(max<x){
                 max3=max2;
                 max2=max;
-                max=nums[i];
+                max=x;
                 index=i;
             }
-            else if(max2<nums[i]){
+            else if(max2<x){
                 max3=max2;
-                max2=nums[i];
+                max2=x;
             }
-            else if(max3<nums[i]){
-                max3=nums[i];
+            else if(max3<x){
+                max3=x;
             }
 
-            if(min>nums[i]){
+            if(min>x){
                 min2=min;
-                min=nums[i];
+                min=x;
                 index=i;
             }
-            else if(min2>nums[i]){
-                min2=nums[i];
+            else if(min2>x){
+                min2=x;
             }
         }
         return(   Math.max( min*min2*max   ,   max*max2*max3 )    );
