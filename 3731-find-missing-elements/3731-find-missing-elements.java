@@ -3,9 +3,6 @@ class Solution {
         Arrays.sort(nums);
         ArrayList<Integer> arr= new ArrayList<>();
         
-
-
-        
         int i=1;
         int number=nums[0]+1;
         while(i<nums.length){
