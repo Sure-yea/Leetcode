@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sure-yea/Leetcode/tree/master/0014-longest-common-prefix) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sure-yea/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sure-yea/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
