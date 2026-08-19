@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sure-yea/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sure-yea/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sure-yea/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sure-yea/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sure-yea/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Sure-yea/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -47,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Greedy
 |  |
