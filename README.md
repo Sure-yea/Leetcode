@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sure-yea/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sure-yea/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Sure-yea/Leetcode/tree/master/3731-find-missing-elements) |
+| [4024-nearest-available-drone](https://github.com/Sure-yea/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sure-yea/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/Sure-yea/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Dynamic Programming
 |  |
 | ------- |
