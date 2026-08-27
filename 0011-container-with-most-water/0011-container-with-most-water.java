@@ -7,16 +7,15 @@ class Solution {
         int j=height.length-1;
         int max=min(height[i],height[j])*(j-i);
         int water=max;
+
+
         while(i<j){
             water=min(height[i],height[j])*(j-i);
-            if(height[i]<height[j]){
-                
-                if(water>max) max=water;
+            if(water>max) max=water;
+            if(height[i]<height[j]){   
                 i++;
             }
             else{
-                
-                if(water>max) max=water;
                 j--;
             }
         }
