@@ -6,14 +6,14 @@ class Solution {
         int i=0;
         int j=height.length-1;
         int max=min(height[i],height[j])*(j-i);
-        int water=min(height[i],height[j])*(j-i);
+        int water=max;
         while(i<j){
             if(height[i]<height[j]){
                 water=min(height[i],height[j])*(j-i);
                 if(water>max) max=water;
                 i++;
             }
-            else{//height[i]>=height[j]
+            else{
                 water=min(height[i],height[j])*(j-i);
                 if(water>max) max=water;
                 j--;
