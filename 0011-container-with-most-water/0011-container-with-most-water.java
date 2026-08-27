@@ -11,16 +11,11 @@ class Solution {
             if(height[i]<height[j]){
                 water=min(height[i],height[j])*(j-i);
                 if(water>max) max=water;
-                System.out.println(max);
-                System.out.println("left moved");
-
                 i++;
             }
             else{//height[i]>=height[j]
                 water=min(height[i],height[j])*(j-i);
                 if(water>max) max=water;
-                System.out.println(max);
-                System.out.println("right moved");
                 j--;
             }
         }
