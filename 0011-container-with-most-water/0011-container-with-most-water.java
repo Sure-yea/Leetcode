@@ -8,13 +8,14 @@ class Solution {
         int max=min(height[i],height[j])*(j-i);
         int water=max;
         while(i<j){
+            water=min(height[i],height[j])*(j-i);
             if(height[i]<height[j]){
-                water=min(height[i],height[j])*(j-i);
+                
                 if(water>max) max=water;
                 i++;
             }
             else{
-                water=min(height[i],height[j])*(j-i);
+                
                 if(water>max) max=water;
                 j--;
             }
