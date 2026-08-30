@@ -29,15 +29,6 @@ class Solution {
         // Math.max( i1+1, i2+1 )  = i2+1                                   // dlt from left
         // (i1+1)+(nums.length-i2)                                      // dlt from both side
 
-
-        System.out.println(i1);
-        System.out.println(i2);
-        System.out.println();
-        System.out.println(nums.length-i1);
-        System.out.println(i2+1);
-        System.out.println(i1+1+(nums.length-i2));
-
-
         return Math.min(
                 nums.length-i1,
             
