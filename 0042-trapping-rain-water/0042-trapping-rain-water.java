@@ -1,7 +1,10 @@
 class Solution {
     public int trap(int[] height) {
         int left=height[0];
-        int water=0,index=0,area=0,stones=0;
+        int water=0;
+        int index=0;
+        int area=0;
+        int stones=0;
         for(int i=1;i<height.length;i++){
             if(height[i]>=left){
                 area=left*(i-index-1);
