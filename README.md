@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sure-yea/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Sure-yea/Leetcode/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/Sure-yea/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sure-yea/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
