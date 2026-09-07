@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sure-yea/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sure-yea/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Sure-yea/Leetcode/tree/master/0066-plus-one) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sure-yea/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sure-yea/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Number Theory
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sure-yea/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Sure-yea/Leetcode/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3033-modify-the-matrix](https://github.com/Sure-yea/Leetcode/tree/master/3033-modify-the-matrix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
