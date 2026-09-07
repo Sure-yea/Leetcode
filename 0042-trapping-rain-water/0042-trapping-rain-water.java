@@ -16,7 +16,6 @@ class Solution {
             }
             else{       //height[i]<left
                 stones+=height[i];
-                System.out.println(stones);
             }
         }
         
@@ -36,7 +35,6 @@ class Solution {
             }
             else{
                 stones+=height[i];
-                System.out.println(stones);
             }
         }
         
