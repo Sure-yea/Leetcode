@@ -4,12 +4,10 @@ class Solution {
         int R=0;
         int dash=0;
         for(int i=0;i<moves.length();i++){
-            if(moves.charAt(i)=='L'){
-            L++;
-            }    
-            else if(moves.charAt(i)=='R'){
-            R++;
-            }
+            if(moves.charAt(i)=='L') L++;
+             
+            else if(moves.charAt(i)=='R') R++;
+        
             else dash++;
         }
         if(L<R) return R+dash-L;
