@@ -7,7 +7,7 @@ class Solution {
         for(int i=1;i<n;i++){
             dist=(timeSeries[i]-timeSeries[i-1]);
             if(duration>dist){  //overlap
-                poisoned+=(timeSeries[i]-timeSeries[i-1]);
+                poisoned+=dist;
             }
             else{//duration less then no overlap
                 poisoned+=duration;
