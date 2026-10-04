@@ -8,18 +8,20 @@ class Solution {
         String word="";
      
         String row1 = "qwertyuiop";
-        for (int i = 0; i < row1.length(); i++) {
-            map.put(row1.charAt(i), 1);
+        for (char c : row1.toCharArray()) {
+            map.put(c, 1);
         }
 
+        // Second row: value 2
         String row2 = "asdfghjkl";
-        for (int i = 0; i < row2.length(); i++) {
-            map.put(row2.charAt(i), 2);
+        for (char c : row2.toCharArray()) {
+            map.put(c, 2);
         }
 
+        // Third row: value 3
         String row3 = "zxcvbnm";
-        for (int i = 0; i < row3.length(); i++) {
-            map.put(row3.charAt(i), 3);
+        for (char c : row3.toCharArray()) {
+            map.put(c, 3);
         }
 
 
