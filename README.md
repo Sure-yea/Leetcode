@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sure-yea/Leetcode/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Sure-yea/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Sure-yea/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/Sure-yea/Leetcode/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/Sure-yea/Leetcode/tree/master/0495-teemo-attacking) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sure-yea/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sure-yea/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
