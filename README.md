@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Sure-yea/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Sure-yea/Leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sure-yea/Leetcode/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Sure-yea/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sure-yea/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/Sure-yea/Leetcode/tree/master/3731-find-missing-elements) |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sure-yea/Leetcode/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
