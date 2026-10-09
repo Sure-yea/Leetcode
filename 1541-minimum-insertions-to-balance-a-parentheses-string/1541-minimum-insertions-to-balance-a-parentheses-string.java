@@ -50,13 +50,13 @@ class Solution {
                         
                     }
                     stack.remove(stack.size()-1);
-                    
+
                     i++;
                 }
             }
             
         }
-        System.out.println(insert+"+"+stack.size()*2);
+        
         return insert+stack.size()*2;
     }
 }
