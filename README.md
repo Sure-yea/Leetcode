@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
 | [0500-keyboard-row](https://github.com/Sure-yea/Leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Sure-yea/Leetcode/tree/master/0504-base-7) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sure-yea/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sure-yea/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2833-furthest-point-from-origin](https://github.com/Sure-yea/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sure-yea/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sure-yea/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sure-yea/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sure-yea/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sure-yea/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Sure-yea/Leetcode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sure-yea/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
