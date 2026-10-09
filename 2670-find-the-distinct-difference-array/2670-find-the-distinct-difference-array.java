@@ -1,66 +1,30 @@
 class Solution {
     public int[] distinctDifferenceArray(int[] nums) {
-        HashMap<Integer, Integer> count = new HashMap<>();
+        int n = nums.length;
+        int[] suffix = new int[51];
+        int rightUnique = 0;
 
-        int uni=0;
-        int n=nums.length;
-        for(int i=0;i<n;i++){
-            if(count.containsKey(nums[i])){
-                count.put(nums[i],count.get(nums[i])+1);
-            }
-            else{
-                count.put(nums[i],1);
-            }
-
-
-            if(count.get(nums[i])==1){
-                uni++;
-            }
-            
+        for (int x : nums) {
+            if (suffix[x]++ == 0) rightUnique++;
         }
 
-        HashMap<Integer, Integer> LHScount = new HashMap<>();
-        int L_uni=0;
-        int R_uni=uni;
-        int[] ans=new int[n];
-        for(int i=0;i<n;i++){
+        boolean[] seen = new boolean[51];
+        int leftUnique = 0;
+        int[] ans = new int[n];
 
-        //left side ke liye
+        for (int i = 0; i < n; i++) {
+            int x = nums[i];
 
-            //adding frequency
-            if(LHScount.containsKey(nums[i])){
-                LHScount.put(nums[i],LHScount.get(nums[i])+1);
-            }
-            else{
-                LHScount.put(nums[i],1);
+            if (!seen[x]) {
+                seen[x] = true;
+                leftUnique++;
             }
 
-            //checking if it became unique
-            if(LHScount.get(nums[i])==1){
-                L_uni++;
-            }
+            if (--suffix[x] == 0) rightUnique--;
 
-
-
-        //right side ke liye
-            //subtracting frequency
-            count.put(nums[i],count.get(nums[i])-1);
-
-
-            //checking if it became unique
-            if(count.get(nums[i])==0){
-                R_uni--;
-            }
-
-
-
-            //ans
-            ans[i]=L_uni-R_uni;
-            
+            ans[i] = leftUnique - rightUnique;
         }
-
 
         return ans;
-
     }
 }
