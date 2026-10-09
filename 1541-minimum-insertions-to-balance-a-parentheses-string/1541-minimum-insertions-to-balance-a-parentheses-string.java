@@ -21,7 +21,7 @@ class Solution {
                                                     // remove its opening saathi
                     if(stack.size()==0){              //if nothing to remove
                         insert++;                    // make one so we can remove
-                        stack.add('(');
+                        break;
 
                     }
                     stack.remove(stack.size()-1);   
@@ -33,7 +33,8 @@ class Solution {
                                                     // remove its opening saathi
                     if(stack.size()==0){              //if nothing to remove
                         insert++;                    // make one so we can remove
-                        stack.add('(');
+                        i+=2;
+                        continue;
                         
                     }
                     stack.remove(stack.size()-1);
@@ -46,7 +47,8 @@ class Solution {
                                                     // remove its opening saathi
                     if(stack.size()==0){              //if nothing to remove
                         insert++;                    // make one so we can remove
-                        stack.add('(');
+                        i++;
+                        continue;
                         
                     }
                     stack.remove(stack.size()-1);
