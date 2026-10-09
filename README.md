@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Sure-yea/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sure-yea/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sure-yea/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sure-yea/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sure-yea/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sure-yea/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sure-yea/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
