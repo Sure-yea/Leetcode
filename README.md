@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sure-yea/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3033-modify-the-matrix](https://github.com/Sure-yea/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sure-yea/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sure-yea/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sure-yea/Leetcode/tree/master/3731-find-missing-elements) |
 | [4024-nearest-available-drone](https://github.com/Sure-yea/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sure-yea/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sure-yea/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sure-yea/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sure-yea/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sure-yea/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sure-yea/Leetcode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
