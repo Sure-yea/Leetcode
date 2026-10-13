@@ -20,34 +20,20 @@ class Solution {
             }
 
             if(turn%2==0){
-                //System.out.println("i: "+i);
                 sum-=(long)(i*i);
                 count[i]--;
             }
             
-            else{//(turn%2==1){
-                //System.out.println("j: "+j);
+            else{
                 sum+=(long)(j*j);
                 count[j]--;
             }
             turn++;
         }
-        // System.out.println("loop ended");
-        // System.out.println("i: "+i);
-        // System.out.println("j: "+j);
-        // System.out.println("count[i]: "+count[i]);
-        // System.out.println("count[j]: "+count[j]);
         
-    
         if(turn%2==0 && count[i]%2==1) sum-=(i*i);
         if(turn%2==1 && count[i]%2==1) sum+=(i*i);
 
-        
-
-
-        
-
         return sum;
-
     }
 }
