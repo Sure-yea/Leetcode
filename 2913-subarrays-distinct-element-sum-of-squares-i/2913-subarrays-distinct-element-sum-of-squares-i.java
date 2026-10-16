@@ -35,6 +35,7 @@ class Solution {
                 count.put(in,count.getOrDefault(in,0)+1);
 
                 sum+=distinct*distinct;
+                sum=sum%1000000007;
             }
         }
 
