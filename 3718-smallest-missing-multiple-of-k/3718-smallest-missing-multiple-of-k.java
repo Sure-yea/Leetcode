@@ -6,12 +6,12 @@ class Solution {
         }
         int find=k;
         while(find<=100){
-            System.out.println(find);
             if(found[find]==false){
                 return find;
             }
             find+=k;
         }
         return find;
+        
     }
 }
