@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sure-yea/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3033-modify-the-matrix](https://github.com/Sure-yea/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sure-yea/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sure-yea/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sure-yea/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sure-yea/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sure-yea/Leetcode/tree/master/3731-find-missing-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sure-yea/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Simulation
 |  |
 | ------- |
