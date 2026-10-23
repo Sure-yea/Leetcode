@@ -8,7 +8,7 @@ class Solution {
                     
             }
         }
-        System.out.println(0 & 1 & 2);
+        
         if(ans==131071){
             return 0;
         }
