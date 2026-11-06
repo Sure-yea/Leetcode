@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sure-yea/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sure-yea/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Sure-yea/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sure-yea/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sure-yea/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sure-yea/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sure-yea/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
