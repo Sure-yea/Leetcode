@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sure-yea/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0697-degree-of-an-array](https://github.com/Sure-yea/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sure-yea/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sure-yea/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sure-yea/Leetcode/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/Sure-yea/Leetcode/tree/master/0500-keyboard-row) |
+| [0697-degree-of-an-array](https://github.com/Sure-yea/Leetcode/tree/master/0697-degree-of-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sure-yea/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Sure-yea/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sure-yea/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
