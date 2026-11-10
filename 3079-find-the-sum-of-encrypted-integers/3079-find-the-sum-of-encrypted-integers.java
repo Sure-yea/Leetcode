@@ -8,7 +8,6 @@ class Solution {
         int len=0;
         int mul=1;         
         for(int ele:nums){
-            System.out.println("new element");
             max=0;
             len=0;
             
@@ -21,7 +20,6 @@ class Solution {
             
             for(int i=0; i<len; i++){
                 sum+=max;
-                System.out.println("added  "+(max));
                 max*=10;
             }
             
