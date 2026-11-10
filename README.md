@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sure-yea/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3033-modify-the-matrix](https://github.com/Sure-yea/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sure-yea/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Sure-yea/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Sure-yea/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3697-compute-decimal-representation](https://github.com/Sure-yea/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sure-yea/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/Sure-yea/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sure-yea/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Sure-yea/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sure-yea/Leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sure-yea/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sure-yea/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
