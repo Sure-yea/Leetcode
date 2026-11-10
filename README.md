@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Sure-yea/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sure-yea/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sure-yea/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1854-maximum-population-year](https://github.com/Sure-yea/Leetcode/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sure-yea/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1854-maximum-population-year](https://github.com/Sure-yea/Leetcode/tree/master/1854-maximum-population-year) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sure-yea/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sure-yea/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sure-yea/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sure-yea/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1854-maximum-population-year](https://github.com/Sure-yea/Leetcode/tree/master/1854-maximum-population-year) |
 | [3903-smallest-stable-index-i](https://github.com/Sure-yea/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Heap (Priority Queue)
 |  |
