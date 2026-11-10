@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sure-yea/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Sure-yea/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sure-yea/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sure-yea/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sure-yea/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
