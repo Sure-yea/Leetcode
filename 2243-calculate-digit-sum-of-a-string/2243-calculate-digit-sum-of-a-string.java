@@ -17,9 +17,9 @@ class Solution {
         
         else{
             st="";
-            for(int i = 0; i < s.length(); i++) {
+            for(int i = 0; i < n; i++) {
                 sum += s.charAt(i) - '0';
-                if(counter%(k)==0 || i==s.length()-1){
+                if(counter%(k)==0 || i==n-1){
                     st+= String.valueOf(sum);
                     sum=0;
                 }
