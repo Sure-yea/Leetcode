@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Sure-yea/Leetcode/tree/master/0504-base-7) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sure-yea/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sure-yea/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sure-yea/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Sure-yea/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sure-yea/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/Sure-yea/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sure-yea/Leetcode/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Sure-yea/Leetcode/tree/master/0495-teemo-attacking) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sure-yea/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sure-yea/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sure-yea/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
