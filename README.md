@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/Sure-yea/Leetcode/tree/master/0697-degree-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sure-yea/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sure-yea/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sure-yea/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1854-maximum-population-year](https://github.com/Sure-yea/Leetcode/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sure-yea/Leetcode/tree/master/0001-two-sum) |
 | [0500-keyboard-row](https://github.com/Sure-yea/Leetcode/tree/master/0500-keyboard-row) |
 | [0697-degree-of-an-array](https://github.com/Sure-yea/Leetcode/tree/master/0697-degree-of-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sure-yea/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sure-yea/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2670-find-the-distinct-difference-array](https://github.com/Sure-yea/Leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sure-yea/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Sure-yea/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Sure-yea/Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sure-yea/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sure-yea/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Sure-yea/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
