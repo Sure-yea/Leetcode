@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sure-yea/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Sure-yea/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Sure-yea/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1323-maximum-69-number](https://github.com/Sure-yea/Leetcode/tree/master/1323-maximum-69-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Sure-yea/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sure-yea/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sure-yea/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sure-yea/Leetcode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Sure-yea/Leetcode/tree/master/0561-array-partition) |
+| [1323-maximum-69-number](https://github.com/Sure-yea/Leetcode/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sure-yea/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sure-yea/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sure-yea/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
