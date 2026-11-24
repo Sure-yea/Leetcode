@@ -11,13 +11,16 @@ class Solution {
             }
         }
 
-        String ans="";
+        StringBuilder ans = new StringBuilder();
+
         for(int i=1; i<=one-1; i++){
-            ans+='1';
+            ans.append('1');
         }
         for(int i=1; i<=zero; i++){
-            ans+='0';
+            ans.append('0');
         }
-        return ans+'1';
+
+        ans.append('1');
+        return ans.toString();
     }
 }
